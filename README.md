@@ -1,34 +1,14 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Oriz</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Oriz</h1></summary>
   </ul>
 </div>
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+<p align="center">Confusion is part of Programming</p>
 
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orz14&theme=tokyonight&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=orz14&theme=tokyonight&hide_border=false" />
-</td>
-
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=orz14&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-</td>
-</tr>
-</table>
-</p>        
+  <img unselectable="on" src="http://streak-stats.demolab.com?user=orz14&theme=holi-theme&hide_border=true&background=0D1117&mode=weekly"/><br>
+</p>
 
 <div id="user-content-toc">
   <ul align="center">
