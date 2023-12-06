@@ -4,7 +4,7 @@
   </ul>
 </div>
 
-<p align="center">Confusion is part of Programming</p>
+<p align="center">```Confusion is part of Programming```</p>
 
 <p align="center">
   <img unselectable="on" src="http://streak-stats.demolab.com?user=orz14&theme=holi-theme&hide_border=true&background=0D1117&mode=weekly"/><br>
