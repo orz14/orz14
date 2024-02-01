@@ -17,6 +17,6 @@
 </div>
 <p align="center">
   <a href="https://orzproject.my.id">
-    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,tailwind,js,jquery,nodejs,react,nextjs,express,nestjs,mysql,postgres,git,github,postman,vscode,photoshop&perline=10" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,html,css,bootstrap,tailwind,js,ts,jquery,nodejs,react,nextjs,express,nestjs,mysql,postgres,git,github,postman,vscode,photoshop&perline=7" />
   </a>
 </p>
