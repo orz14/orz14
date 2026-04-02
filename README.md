@@ -28,10 +28,10 @@
   <img src="https://img.shields.io/badge/Node%20js-212731?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/React-212731?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next%20js-212731?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack-212731?style=for-the-badge&logo=TanStack&logoColor=white" />
   <img src="https://img.shields.io/badge/Express%20js-212731?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/nestjs-212731?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   <img src="https://img.shields.io/badge/MySQL-212731?style=for-the-badge&logo=mysql&logoColor=005C84" />
-  <img src="https://img.shields.io/badge/PostgreSQL-212731?style=for-the-badge&logo=postgresql&logoColor=316192" />
   <img src="https://img.shields.io/badge/GIT-212731?style=for-the-badge&logo=git&logoColor=E44C30" />
   <img src="https://img.shields.io/badge/Postman-212731?style=for-the-badge&logo=Postman&logoColor=FF6C37" />
   <img src="https://img.shields.io/badge/VSCode-212731?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" />
